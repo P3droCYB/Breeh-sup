@@ -27,7 +27,7 @@
 /* color */
 .primary,
 .link:hover,
-.filter .active,
+.filter .active, 
 .works-item h4,
 .msg-success {
   color: #ecb4bf;
